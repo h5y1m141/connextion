@@ -1,8 +1,15 @@
 ".container": {
-	backgroundColor:"white"
+	  backgroundColor:"white"
 },
-"Label": {
-	width: Ti.UI.SIZE,
-	height: Ti.UI.SIZE,
-	color: "#000"
-} 
+
+"#fbloginLabel": {
+    top:"40%",
+    left:"30%",
+    width:"60%",
+    height:"10%"
+}
+"#icon" :{
+    top:"40%",
+    left:"5%",
+    image: "facebook-icon.png"
+}

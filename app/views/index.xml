@@ -1,5 +1,6 @@
 <Alloy>
 	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, World</Label>
+    <Label id="fbloginLabel">Facebookでログイン</Label>
+    <ImageView id="icon"></ImageView>
 	</Window>
 </Alloy>
